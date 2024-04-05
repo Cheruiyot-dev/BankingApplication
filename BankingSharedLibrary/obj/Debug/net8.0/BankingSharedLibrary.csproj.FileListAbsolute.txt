@@ -1,0 +1,12 @@
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\bin\Debug\net8.0\BankingSharedLibrary.deps.json
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\bin\Debug\net8.0\BankingSharedLibrary.dll
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\bin\Debug\net8.0\BankingSharedLibrary.pdb
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\BankingSharedLibrary.csproj.AssemblyReference.cache
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\BankingSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\BankingSharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\BankingSharedLibrary.AssemblyInfo.cs
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\BankingSharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\BankingSharedLibrary.dll
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\refint\BankingSharedLibrary.dll
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\BankingSharedLibrary.pdb
+C:\Users\Allan\source\repos\BankingAppSolution\BankingSharedLibrary\obj\Debug\net8.0\ref\BankingSharedLibrary.dll

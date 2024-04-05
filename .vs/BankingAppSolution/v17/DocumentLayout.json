@@ -1,0 +1,766 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\utilities\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\utilities\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\utilities\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\utilities\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\models\\transactionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\models\\transactionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\models\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\models\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\models\\bankemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\models\\bankemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\customer\\transactionhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\customer\\transactionhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\customer\\subtractmoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\customer\\subtractmoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\customer\\addmoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\customer\\addmoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\customer\\accountdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\customer\\accountdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\bankemployee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\bankemployee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\bankemployee\\deletecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\bankemployee\\deletecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\bankemployee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\bankemployee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\bankemployee\\customerlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\bankemployee\\customerlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\bankemployee\\createtransaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\bankemployee\\createtransaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\bankemployee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\bankemployee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\data\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\data\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\data\\entities\\transactionrecordentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\data\\entities\\transactionrecordentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\data\\entities\\transactionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\data\\entities\\transactionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\data\\entities\\savingsaccounttransactionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\data\\entities\\savingsaccounttransactionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\data\\entities\\savingsaccountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\data\\entities\\savingsaccountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\data\\entities\\currentaccountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\data\\entities\\currentaccountentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\data\\entities\\currentaccounttransactionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\data\\entities\\currentaccounttransactionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\data\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\data\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\controllers\\bankemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\controllers\\bankemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E21C4-EC03-4462-A239-9961EA276C6A}|BankingConsoleApp\\BankingConsoleApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E21C4-EC03-4462-A239-9961EA276C6A}|BankingConsoleApp\\BankingConsoleApp.csproj|solutionrelative:bankingconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E21C4-EC03-4462-A239-9961EA276C6A}|BankingConsoleApp\\BankingConsoleApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingconsoleapp\\consolebank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E21C4-EC03-4462-A239-9961EA276C6A}|BankingConsoleApp\\BankingConsoleApp.csproj|solutionrelative:bankingconsoleapp\\consolebank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\bankingmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\bankingmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingsharedlibrary\\bankingsharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87D90324-F8F2-4733-8D9D-F7D6E37577C9}|BankingSharedLibrary\\BankingSharedLibrary.csproj|solutionrelative:bankingsharedlibrary\\bankingsharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|c:\\users\\allan\\source\\repos\\bankingappsolution\\bankingmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FBCD570-9549-45E8-927E-C85184EF9516}|BankingMVCApp\\BankingMVCApp.csproj|solutionrelative:bankingmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Class1.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:47:11.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Utilities\\FileHandler.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Utilities\\FileHandler.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Utilities\\FileHandler.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Utilities\\FileHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:47:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Utilities\\DatabaseHandler.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Utilities\\DatabaseHandler.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Utilities\\DatabaseHandler.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Utilities\\DatabaseHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:46:51.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Services\\LoginService.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Services\\LoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:46:24.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\Customer.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:59:07.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BankingMVCApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\appsettings.json",
+              "RelativeToolTip": "BankingMVCApp\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T15:06:24.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Models\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\CurrentAccount.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Models\\CurrentAccount.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:58:58.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Models\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\SavingsAccount.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Models\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:59:23.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\Transaction.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:59:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\TransactionRecord.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Models\\TransactionRecord.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\TransactionRecord.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Models\\TransactionRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:31:29.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\User.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:59:42.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BankEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\BankEmployee.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Models\\BankEmployee.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\BankEmployee.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Models\\BankEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:32:49.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\Models\\Account.cs",
+              "RelativeToolTip": "BankingSharedLibrary\\Models\\Account.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:57:24.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Program.cs",
+              "RelativeToolTip": "BankingMVCApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:10:48.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T13:40:07.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\TransactionHistory.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\Customer\\TransactionHistory.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\TransactionHistory.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\Customer\\TransactionHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:03:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubtractMoney.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\SubtractMoney.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\Customer\\SubtractMoney.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\SubtractMoney.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\Customer\\SubtractMoney.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:07:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\Customer\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:00:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddMoney.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\AddMoney.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\Customer\\AddMoney.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\AddMoney.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\Customer\\AddMoney.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:04:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\AccountDetails.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\Customer\\AccountDetails.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Customer\\AccountDetails.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\Customer\\AccountDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:00:53.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\BankEmployee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\Index.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\BankEmployee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:54:40.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\DeleteCustomer.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\BankEmployee\\DeleteCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\DeleteCustomer.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\BankEmployee\\DeleteCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:38:59.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\BankEmployee\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\Dashboard.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\BankEmployee\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T10:40:48.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateTransaction.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\CreateTransaction.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\BankEmployee\\CreateTransaction.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\CreateTransaction.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\BankEmployee\\CreateTransaction.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:55:12.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\Create.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\BankEmployee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\Create.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\BankEmployee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:35:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BankingMVCApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:01:56.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BankingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\BankingDbContext.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Data\\BankingDbContext.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\BankingDbContext.cs",
+              "RelativeToolTip": "BankingMVCApp\\Data\\BankingDbContext.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:03:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\CustomerList.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\BankEmployee\\CustomerList.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\BankEmployee\\CustomerList.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\BankEmployee\\CustomerList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:20:20.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransactionRecordEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\TransactionRecordEntity.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Data\\Entities\\TransactionRecordEntity.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\TransactionRecordEntity.cs",
+              "RelativeToolTip": "BankingMVCApp\\Data\\Entities\\TransactionRecordEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:53:22.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\TransactionEntity.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Data\\Entities\\TransactionEntity.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\TransactionEntity.cs",
+              "RelativeToolTip": "BankingMVCApp\\Data\\Entities\\TransactionEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:52:52.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SavingsAccountTransactionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\SavingsAccountTransactionEntity.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Data\\Entities\\SavingsAccountTransactionEntity.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\SavingsAccountTransactionEntity.cs",
+              "RelativeToolTip": "BankingMVCApp\\Data\\Entities\\SavingsAccountTransactionEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:20:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SavingsAccountEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\SavingsAccountEntity.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Data\\Entities\\SavingsAccountEntity.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\SavingsAccountEntity.cs",
+              "RelativeToolTip": "BankingMVCApp\\Data\\Entities\\SavingsAccountEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:51:25.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CurrentAccountEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\CurrentAccountEntity.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Data\\Entities\\CurrentAccountEntity.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\CurrentAccountEntity.cs",
+              "RelativeToolTip": "BankingMVCApp\\Data\\Entities\\CurrentAccountEntity.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:51:50.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CurrentAccountTransactionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\CurrentAccountTransactionEntity.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Data\\Entities\\CurrentAccountTransactionEntity.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\CurrentAccountTransactionEntity.cs",
+              "RelativeToolTip": "BankingMVCApp\\Data\\Entities\\CurrentAccountTransactionEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:58:44.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Data\\Entities\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Data\\Entities\\CustomerEntity.cs",
+              "RelativeToolTip": "BankingMVCApp\\Data\\Entities\\CustomerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:50:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankingMVCApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:03:51.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BankingMVCApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:58:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BankEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Controllers\\BankEmployeeController.cs",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Controllers\\BankEmployeeController.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Controllers\\BankEmployeeController.cs",
+              "RelativeToolTip": "BankingMVCApp\\Controllers\\BankEmployeeController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:02:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingConsoleApp\\Program.cs",
+              "RelativeToolTip": "BankingConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:43:16.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ConsoleBank.cs",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingConsoleApp\\ConsoleBank.cs",
+              "RelativeDocumentMoniker": "BankingConsoleApp\\ConsoleBank.cs",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingConsoleApp\\ConsoleBank.cs",
+              "RelativeToolTip": "BankingConsoleApp\\ConsoleBank.cs",
+              "ViewState": "AQIAALgBAAAAAAAAAAAqwBgBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:38:51.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BankingMVCApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\BankingMVCApp.csproj",
+              "RelativeDocumentMoniker": "BankingMVCApp\\BankingMVCApp.csproj",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\BankingMVCApp.csproj",
+              "RelativeToolTip": "BankingMVCApp\\BankingMVCApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T14:31:49.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BankingSharedLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\BankingSharedLibrary.csproj",
+              "RelativeDocumentMoniker": "BankingSharedLibrary\\BankingSharedLibrary.csproj",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingSharedLibrary\\BankingSharedLibrary.csproj",
+              "RelativeToolTip": "BankingSharedLibrary\\BankingSharedLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T14:32:09.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:58:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BankingMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Allan\\source\\repos\\BankingAppSolution\\BankingMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BankingMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:56:44.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
